@@ -1,0 +1,3 @@
+nest g module user
+nest g service user --no-spec
+nest g resolver user --no-spec
